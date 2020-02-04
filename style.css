@@ -1,0 +1,40 @@
+body *{
+	width: 80%;
+	margin:auto;
+}
+
+
+header img{
+	display: block;
+	margin: auto;
+}
+
+header{
+	background-color: yellow;
+}
+
+nav{
+	background-color: lightblue;
+}
+
+
+
+#content{
+	width: 80%;
+	background-color: pink;
+	float:left;
+}
+
+
+#ads{
+	width: 20%;
+	background-color: orange;
+	float:right;
+}
+
+
+
+footer{
+	background-color: grey;
+	clear:both;
+}
